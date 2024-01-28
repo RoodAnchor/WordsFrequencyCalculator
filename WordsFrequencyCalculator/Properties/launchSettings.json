@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WordsFrequencyCalculator": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Андрей\\Documents\\Repos\\SkillFactory\\WordsFrequencyCalculator\\Misc\\Text1.txt"
+    }
+  }
+}
